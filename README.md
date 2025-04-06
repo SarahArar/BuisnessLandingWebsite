@@ -11,7 +11,7 @@ This is a **responsive business landing page** built using **HTML5** and **CSS3*
 
 ## 📸 Preview
 
-![Landing Page Screenshot](./images/preview/1.PNG)  ,![Landing Page Screenshot](images/preview/2.PNG)  , ![Landing Page Screenshot](images/preview/3.PNG)  ,![Landing Page Screenshot](images/preview/4.PNG)  
+![Landing Page Screenshot](images/preview/1.PNG)  ,![Landing Page Screenshot](images/preview/2.PNG)  , ![Landing Page Screenshot](images/preview/3.PNG)  ,![Landing Page Screenshot](images/preview/4.PNG)  
 
 
 ## 🛠️ Technologies Used
